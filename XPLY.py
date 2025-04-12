@@ -1,3 +1,3 @@
 import XD
-from XD Get_Data() 
+from XD Get_Data 
 Get_Data().get()
